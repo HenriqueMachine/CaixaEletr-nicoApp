@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">simuladorCaixaEletronico</string>
+    <string name="saque">SAQUE</string>
+    <string name="dep_sito">DEPÓSITO</string>
+    <string name="saldo">SALDO</string>
+    <string name="escolha_uma_opc_o">Escolha uma opcão:</string>
+    <string name="seu_saldo">Seu saldo é:</string>
+    <string name="_valorDeposito">0000</string>
+    <string name="_centavosDepositar">00</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingDEF">16dp</dimen>
+    <dimen name="largurabt">150dp</dimen>
+    <dimen name="txOpcao">25sp</dimen>
+    <dimen name="txtSizeBt">20sp</dimen>
+</resources>
